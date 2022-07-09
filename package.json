@@ -1,0 +1,21 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "This is the application to order food | recipes",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "Recipes",
+    "Food",
+    "Servings"
+  ],
+  "author": "Imran Rafiq Rather",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2",
+    "sass": "^1.53.0"
+  }
+}
